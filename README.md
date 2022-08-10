@@ -1,4 +1,4 @@
-# COSC601-Introduction-to-Programming-2
+# COSC601-Introduction to Programming 2
 
   - Develop problem-solving skills through the use of detailed algorithms and be introduced to structured and object oriented design techniques. 
   - Continuing the evolution of methods, encapsulation, instantiating and using objects. 
